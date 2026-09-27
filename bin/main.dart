@@ -2,7 +2,7 @@
 // Program utama: menangani input/output dan alur interaksi dengan pengguna.
 
 import 'dart:io';
-import 'package:pab/kalkulator.dart';
+import 'package:simple_calculator/kalkulator.dart';
 
 void main() {
   final kalkulator = Kalkulator();
